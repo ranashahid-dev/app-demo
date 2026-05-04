@@ -1,7 +1,6 @@
 # dictionary_app
 
-A new Flutter project.
-This project is a login page interface. where user can login with their email and password.
+A new Flutter project. where user can login with their email and password.
 
 ## Getting Started
 
